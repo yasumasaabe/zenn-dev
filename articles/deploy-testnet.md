@@ -80,8 +80,6 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 ```
 
 ④HDWalletProviderとfsをプロジェクトにインストールする
-HDWalletProviderとは?
-fsとは?
 ```
 npm i @truffle/hdwallet-provider fs
 ```
