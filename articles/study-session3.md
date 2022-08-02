@@ -1,5 +1,5 @@
 ---
-title: "Next.jsとweb3authを使ってDAppを作る"
+title: "Next.jsとweb3authを使ってDAppsを作る"
 emoji: "💭"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['nextjs', 'web3', 'solidity', 'typescript']
