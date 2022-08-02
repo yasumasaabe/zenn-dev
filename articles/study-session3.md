@@ -3,7 +3,7 @@ title: "Next.jsとweb3authを使ってDAppを作る"
 emoji: "💭"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['nextjs', 'web3', 'solidity', 'typescript']
-published: false
+published: true
 ---
 
 # 本記事の対象者
